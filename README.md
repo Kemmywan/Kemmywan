@@ -10,12 +10,10 @@
 
 <div align="center">
   <a href="https://github.com/Kemmywan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kemmywan&show_icons=true&theme=dracula&hide_title=true" alt="Kemmywan's GitHub stats" />
-  </a>
-  <a href="https://github.com/Kemmywan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemmywan&layout=donut&theme=dracula&exclude_repo=nju-ics2021,CSAPP-Labs" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemmywan&layout=donut&theme=dracula" alt="Top Langs" />
   </a>
 </div>
+
 
 ### 🛠️ Tech Stack
 
