@@ -6,14 +6,6 @@
 - 💻 I am a rookie on everything basically now ... I am trying a lot of stuff, including RL-model, dev-programming, web-hack, crypto, etc.
 - 🌏 I can speak 🇨🇳Chinese and 🇺🇸English, maybe learn some 🇯🇵Japanese later on
 
-### Use(ful/less) Stats.
-
-<div align="center">
-  <a href="https://github.com/Kemmywan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemmywan&layout=donut&theme=dracula" alt="Top Langs" />
-  </a>
-</div>
-
 
 ### 🛠️ Tech Stack
 
