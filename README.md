@@ -13,17 +13,14 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen?style=flat-square&logo=springboot)
 
 ---
 
 ### 🌱 Currently Learning
 
-- System Programming
-- Web Hack
-- Web Development with Flask
-- Reinforcement Learning
-- AI-Security
-
+- Java
+  
 ---
 
 ### 📫 Contact Me
